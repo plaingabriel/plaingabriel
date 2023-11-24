@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plaingabriel
-- 👀 I’m interested in frontend web development (And, later, full stack web development), machine learning and game development
-- 🌱 I’m currently learning responsive web design
-- 💞️ I’m looking to collaborate on elaborate static webpages
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on elaborate web apps with React and TypeScript
 - 📫 You can reach me on Twitter: https://twitter.com/plaingabriel and FreeCodeCamp: https://www.freecodecamp.org/plaingabriel
 <!---
 plaingabriel/plaingabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
