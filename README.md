@@ -1,4 +1,7 @@
-<img src="./assets/Hild.jpg" width="30%"  align="right" />
+<div align="center">
+<img src="./assets/Thorfinn.jpeg" width="50%" />
+</div>
+
 
 # Hi, I'm Gabriel 👋
 
@@ -12,7 +15,6 @@ I'm a passionate **Fullstack Developer** who loves building scalable web applica
 - **Tools:** Git, VS Code
 - **Desktop:** ElectronJS
 
-<img src="./assets/Thorfinn.jpeg" width="30%"  align="right" />
 
 ## 📫 Contact
 
